@@ -5,8 +5,8 @@ public class TestKlasse {
 		// TODO Auto-generated method stub
 
 	}
-	
-   //hej med dig
+
+   //hej med dig mohmood du lugter	
 	
 	
 	
